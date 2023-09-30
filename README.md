@@ -17,3 +17,4 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 - Instagram:
 
 ### Screenshot
+![Screenshot 2023-09-30 at 04-00-37 Four card feature section](https://github.com/coderSeth13/FEM_4_CARD_FEATURE_SECTION/assets/145410639/3f5a9c62-af0d-4719-bb0a-ddbdfe154a8d)
