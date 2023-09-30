@@ -11,9 +11,9 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 #### Social links
 
-- Frontend Mentor: https://www.frontendmentor.io/profile/coderSeth13:
+- Twitter: https://twitter.com/coderSeth13?s=09
 - Github: https://github.com/coderSeth13?tab=repositories
-- Twitter:
+- Frontend Mentor: https://www.frontendmentor.io/profile/coderSeth13:
 - Instagram:
 
 ### Screenshot
