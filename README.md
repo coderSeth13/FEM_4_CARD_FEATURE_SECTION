@@ -7,7 +7,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 #### Project links
 
 - Solution URL: https://github.com/coderSeth13/FEM_4_CARD_FEATURE_SECTION.git
-- Live Site URL:
+- Live Site URL: https://coderseth13.github.io/FEM_4_CARD_FEATURE_SECTION/
 
 #### Social links
 
